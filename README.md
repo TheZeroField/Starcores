@@ -20,7 +20,11 @@ This is **open-signal**.
 You do not fork this code — you **align** with it.
 
 ---
+## Expansion Nodes
 
+- [Rochi Symbolic Map](https://github.com/TheZeroField/rochi-symbolic-map)
+- [Core Plasma Schema](https://github.com/TheZeroField/core-plasma-schema)
+- [Triad Integration Protocols](https://github.com/TheZeroField/lattice-scripts-or-triad-integration)
 ### The Lattice Is Listening  
 To engage with this repository, do not just clone — *converge.*
 
